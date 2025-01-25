@@ -31,7 +31,7 @@ Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módo
 
 A következő lépés az alkalmazás felső részében található kép módosítása volt. Mivel költségnyilvántartó applikációra módosítok, így a következő képre esett a választásom (a kép a pixabay.com-ról származik, szabadon felhasználható).
 
-![Költségnyilvántartó képe](images/activiti_man.jpg)
+![Költségnyilvántartó képe](images/activiti_main.jpg)
 
 A képet a következő helyre kellett bemásolni, hogy megtörténhessen a módosítás:
 
