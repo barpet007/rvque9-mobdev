@@ -23,7 +23,7 @@
 
 ## Csomagnevek és tartalmazó mappa módosítása
 
-Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem CostAccountant névre.
+Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem VasarlasiLista névre.
 
 ---
 
