@@ -29,8 +29,7 @@ Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módo
 
 ## Háttérkép módosítása
 
-A következő lépés az alkalmazás felső részében található kép módosítása volt. Mivel költségnyilvántartó applikációra módosítok, így a következő képre esett a választásom (a kép a pixabay.com-ról származik, szabadon felhasználható).
-
+A következő lépés az alkalmazás felső részében található kép módosítása volt.
 ![Költségnyilvántartó képe](images/activiti_main.jpg)
 
 A képet a következő helyre kellett bemásolni, hogy megtörténhessen a módosítás:
@@ -41,7 +40,7 @@ CostAccountant\app\src\main\res\drawable
 
 A változtatást az activity_main.xml fájlban kellett végrehajtani. A folyamatot a következő kép szemlélteti:
 
-![Kép módosítás](img/kep_valtoztat.png)
+![Kép módosítás](images/Modify_background_pictures.jpg)
 
 ---
 
