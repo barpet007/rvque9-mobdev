@@ -10,7 +10,7 @@
 ---
 
 1. [KotlinShoppingList alkalmazás módosítása](#kotlinshoppinglist-alkalmazás-módosítása)
-   1. [Csomagnevek és tartalmazó mappa módosítása](#csomagnevek-és-tartalmazó-mappa-módosítása)
+   1. [Csomagnevet tartalmazó mappa módosítása](#csomagnevet-tartalmazó-mappa-módosítása)
    2. [Háttérkép módosítása](#háttérkép-módosítása)
    3. [A háttér színének módosítása](#a-háttér-színének-módosítása)
    4. [A elfogadó gomb hozzáadás + magyarosítás + a darabszám input paraméterének megváltoztatása ](#Az-elfogadó-gomb-hozzáadás-magyarosítás-a-darabszám-input-paraméterének-megváltoztatása)
