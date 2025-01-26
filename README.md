@@ -23,7 +23,7 @@
 
 ## Csomagnevet tartalmazó mappa módosítása
 
-Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem VasarlasiLista névre.
+Az alkalmazásban először a csomagnevet tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem VasarlasiLista névre.
 A módosítások egy része a magyarosítás alapján történt.
 
 ---
