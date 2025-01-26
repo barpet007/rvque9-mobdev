@@ -55,7 +55,7 @@ Ezzel a lehetőséggel az alapértelmezetten elérhető színek között válasz
 
 ---
 
-## Az új költségtípus hozzáadásánál a plain text szöveg megváltoztatása
+## A elfogadó gomb hozzáadás + magyarosítás + a darabszám input paraméterének megváltoztatása
 
 Az új kiadás bevitelére szolgáló plain textek alapértelmezett szövegét magyar nyelvűre változtattam, dőlt betűvel látható. Sorrendben a következők lettek:
 * Termék neve - vásárlás értéke
