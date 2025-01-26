@@ -25,6 +25,7 @@
 
 Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem VasarlasiLista névre.
 A módosítások egy része a magyarosítás alapján történt.
+
 ---
 
 ## Háttérkép módosítása
