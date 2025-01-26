@@ -13,8 +13,8 @@
    1. [Csomagnevek és tartalmazó mappa módosítása](#csomagnevek-és-tartalmazó-mappa-módosítása)
    2. [Háttérkép módosítása](#háttérkép-módosítása)
    3. [A háttér színének módosítása](#a-háttér-színének-módosítása)
-   4. [Az új költségtípus hozzáadásánál a plain text szöveg megváltoztatása](#az-új-költségtípus-hozzáadásánál-a-plain-text-szöveg-megváltoztatása)
-   5. [Adatbázis név és adattartalom módosítás](#adatbázis-név-és-adattartalom-módosítás)
+   4. [A elfogadó gomb hozzáadás + magyarosítás + a darabszám input paraméterének megváltoztatása ](#Az-elfogadó-gomb-hozzáadás-magyarosítás-a-darabszám-input-paraméterének-megváltoztatása)
+   5. [Adatbázis tábla név és adatbázis file módosítás](#adatbázis-tábla-név-és-adatbázis-file-módosítás)
    6. [Költséghozzáadó ikon változtatása](#költséghozzáadó-ikon-változtatása)
    7. [Költségtételt jelző címkék megváltoztatása](#költségtételt-jelző-címkék-megváltoztatása)
 
