@@ -50,9 +50,7 @@ A kép alatt található rész háttérszínét kékre változtattam, szintén a
 
 ![Háttérkép változtatása](img/hatterszin_valtoztat.png)
 
-Ezzel a lehetőséggel az alapértelmezetten elérhető színek között választhatunk. Ezek közül egyik sem tetszett, ezért a színkeverő lehetőséget alkalmaztam.
-
-![Háttérkép változtatása2](img/hatterszin_valtoztat2.png)
+Ezzel a lehetőséggel az alapértelmezetten elérhető színek között választhatunk. Csak  teszt kedvéért választottam a sárgát.
 
 ---
 
@@ -60,23 +58,21 @@ Ezzel a lehetőséggel az alapértelmezetten elérhető színek között válasz
 
 Az új kiadás bevitelére szolgáló plain textek alapértelmezett szövegét magyar nyelvűre változtattam, dőlt betűvel látható. Sorrendben a következők lettek:
 * Termék neve - vásárlás értéke
+* Darabszám
 * Ár
-* Kategória
 * Bolt
+* Illetve egy kész gombot is beszúrtam.
 
 ![Szöveg változtatása](img/szoveg_valtoztat.png)
 
-A kategória esetén a beviteli adattípust is változtatni kellett, mivel a Qantity helyett szerepel, a quantity adattípusa pedig decimal volt, ezt text-re kellett módosítani.
+Az Darabszám adattípusnak decimal lett.
 
 ![Adattípus változtatása](img/adattipus_valtoztat.png)
 
 ---
 
-## Adatbázis név és adattartalom módosítás
-
-Az átnevezés és az egyik adattípus megváltoztatása az adatbázist is érintette. Az adatbázis neve az AppDatabase-en belül shopping.db-ről costs.db-re válozott.
-* ShoppingListDAO -> CostitemDAO
-* ShoppingItem -> CostItem
+## Adatbáz tábla átnevezése és az Adatbázisban a tábla nevének módosítása
+Az adatbázis neve az AppDatabase-en belül shopping.db-ről termek.db-re válozott.
 
 ![Adattípus változtatás2](img/adattipus_valtoztat2.png)
 
@@ -84,7 +80,7 @@ Az átnevezés és az egyik adattípus megváltoztatása az adatbázist is érin
 
 ## Költséghozzáadó ikon változtatása
 
-Az ikont a levél ikonról "+" jelre változtattam.
+Az ikont a levél ikonról pipa jelre változtattam és megcseréltem a háttér színét is. jelre változtattam.
 
 ![Ikon változtatás](img/ikon_valtoztat.png)
 
@@ -96,8 +92,5 @@ A változtatásokat a row_item.xml fájlban kell elvégezni. A feliratok szöveg
 
 ![Címkék változtatása](img/cimke_valtoztat.png)
 
-Végül egy kép a működő, megváltozott alkalmazásról.
-
-![Alkalmazás](img/alkalmazas.png)
 
 ---
