@@ -1,6 +1,6 @@
 # rvque9-mobdev
 
-# KotlinShoppingList alkalmazás módosítása
+# Kotlin Shopping List alkalmazás módosítása
 ***Bartók Péter László RVQUE9***
 
 ***III. évfolyam*** 
@@ -21,7 +21,7 @@
 ---
 
 
-## Csomagnevek és tartalmazó mappa módosítása
+## Csomagnevet tartalmazó mappa módosítása
 
 Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem VasarlasiLista névre.
 A módosítások egy része a magyarosítás alapján történt.
