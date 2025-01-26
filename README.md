@@ -24,7 +24,7 @@
 ## Csomagnevek és tartalmazó mappa módosítása
 
 Az alkalmazásban először a csomagneveket és a tartalmazó mappa nevét módosítottam, a KotlinShoppinglist alkalmazást átneveztem VasarlasiLista névre.
-
+A módosítások egy része a magyarosítás alapján történt.
 ---
 
 ## Háttérkép módosítása
@@ -46,11 +46,12 @@ A változtatást az activity_main.xml fájlban kellett végrehajtani. A folyamat
 
 ## A háttér színének módosítása
 
-A kép alatt található rész háttérszínét kékre változtattam, szintén az activity_main.xml fájlban, ahogy a következő ábra mutatja:
+A kép alatt található rész háttérszínét sárgára változtattam, szintén az activity_main.xml fájlban, ahogy a következő ábra mutatja:
 
-![Háttérkép változtatása](img/hatterszin_valtoztat.png)
+![Háttérkép változtatása](images/03.jpg)
 
-Ezzel a lehetőséggel az alapértelmezetten elérhető színek között választhatunk. Csak  teszt kedvéért választottam a sárgát.
+Ezzel a lehetőséggel az alapértelmezetten elérhető színek között választhatunk. Csak teszt kedvéért választottam a sárgát. Meg olyan jól mutat:)
+
 
 ---
 
@@ -63,18 +64,19 @@ Az új kiadás bevitelére szolgáló plain textek alapértelmezett szövegét m
 * Bolt
 * Illetve egy kész gombot is beszúrtam.
 
-![Szöveg változtatása](img/szoveg_valtoztat.png)
+![Szöveg változtatása](images/04.jpg)
 
 Az Darabszám adattípusnak decimal lett.
 
-![Adattípus változtatása](img/adattipus_valtoztat.png)
+![Adattípus változtatása](images/05.jpg)
 
 ---
 
-## Adatbáz tábla átnevezése és az Adatbázisban a tábla nevének módosítása
+## Adatbázis tábla átnevezése és az Adatbázisban a tábla nevének módosítása
 Az adatbázis neve az AppDatabase-en belül shopping.db-ről termek.db-re válozott.
 
-![Adattípus változtatás2](img/adattipus_valtoztat2.png)
+![Tábla változtatás](images/06.jpg)
+![Adatbázis file módosítása](images/07.jpg)
 
 ---
 
@@ -82,7 +84,7 @@ Az adatbázis neve az AppDatabase-en belül shopping.db-ről termek.db-re váloz
 
 Az ikont a levél ikonról pipa jelre változtattam és megcseréltem a háttér színét is. jelre változtattam.
 
-![Ikon változtatás](img/ikon_valtoztat.png)
+![Ikon változtatás](images/08.jpg)
 
 ---
 
@@ -90,7 +92,7 @@ Az ikont a levél ikonról pipa jelre változtattam és megcseréltem a háttér
 
 A változtatásokat a row_item.xml fájlban kell elvégezni. A feliratok szövege és címe mellett más lett a háttér és szövegek színe is.
 
-![Címkék változtatása](img/cimke_valtoztat.png)
+![Címkék változtatása](images/09.jpg)
 
 
 ---
